@@ -39,14 +39,16 @@
 <img width="680" height="332" alt="10 모델" src="https://github.com/user-attachments/assets/b46a59c4-d958-4dbd-a835-b09c8599db09" />
 <img width="757" height="352" alt="11 모델" src="https://github.com/user-attachments/assets/b18d50b6-c84b-4d9b-8924-8d4624a8420b" />
 
+
+
 ### 증상 수어 모델 개발
 - MediaPipe + RandomForest 방식은 MediaPipe + CNN + LSTM 방식보다 더 빠르고 간단하며, 단순한 본 데이터의 특성에 잘 부합함.
 - 또한, MediaPipe + RandomForest 방식은 MediaPipe + CNN + LSTM 방식보다 속도가 빠르고, 모델 크기도 작은 장점이 있음.
 - 따라서 최종 모델로 MediaPipe + RandomForest 방식을 채택함.
+<img width="592" height="335" alt="15 증상모델" src="https://github.com/user-attachments/assets/17b69191-db5c-4f08-aca5-b0aa93d097a6" />
 <img width="597" height="326" alt="12 증상모델" src="https://github.com/user-attachments/assets/6a5262a8-b6ed-4341-9c47-64312901208b" />
 <img width="597" height="325" alt="13 증상수어모델" src="https://github.com/user-attachments/assets/eddf041a-e7c3-4ef1-9ce3-95e933cf3f29" />
 <img width="588" height="320" alt="14 증상모델" src="https://github.com/user-attachments/assets/7d115587-e23c-415b-be39-7a0cb5ba1253" />
-<img width="592" height="335" alt="15 증상모델" src="https://github.com/user-attachments/assets/17b69191-db5c-4f08-aca5-b0aa93d097a6" />
 <img width="600" height="335" alt="16 증상모델" src="https://github.com/user-attachments/assets/2b37ccfa-e84d-4e69-a7df-3da6698de69a" />
 <img width="601" height="287" alt="17 증상모델" src="https://github.com/user-attachments/assets/75480020-f83d-469c-8cf1-1995abea984d" />
 <img width="568" height="282" alt="18 증상모델" src="https://github.com/user-attachments/assets/b5307b5e-bf1f-4f48-aa6a-60222f90841d" />
