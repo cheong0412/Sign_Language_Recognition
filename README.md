@@ -1,4 +1,4 @@
-# 수어 인식 기반 농인 지원 시스템
+<img width="1023" height="535" alt="데이터1" src="https://github.com/user-attachments/assets/d0d38640-c577-4686-8d1d-dfb9b23331ae" /># 수어 인식 기반 농인 지원 시스템
 
 ## 목차
   - [프로젝트 기본 정보](#프로젝트-기본-정보)
@@ -35,6 +35,7 @@
 - 수어 모음과 숫자 일부가 동일한 모양이기 때문에 별도의 모델 개발
 - YOLOv8s 모델의 성능이 자모음과 숫자 모두 고려하였을 때, 가장 성능이 높다고 판단
 - 웹에 구현을 고려하였을 때 경량화된 YOLOv8s 모델이 지문자 수어 모델에 가장 적합하다고 판단하여 최종 모델로 채택
+<img width="1023" height="535" alt="데이터1" src="https://github.com/user-attachments/assets/31a6b9c2-6d44-4fa1-9ea4-ed96e04cf8af" />
 <img width="680" height="332" alt="10 모델" src="https://github.com/user-attachments/assets/b46a59c4-d958-4dbd-a835-b09c8599db09" />
 <img width="757" height="352" alt="11 모델" src="https://github.com/user-attachments/assets/b18d50b6-c84b-4d9b-8924-8d4624a8420b" />
 
