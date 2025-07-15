@@ -6,6 +6,7 @@
   - [프로젝트 설명](#프로젝트-설명)
   - [분석 결과](#분석-결과)
   - [기대 효과](#기대-효과)
+  - [Lesson & Learned](#lesson--learned)
 
 ## 프로젝트 기본 정보
 - 프로젝트 이름: 수어 인식 기반 농인 지원 시스템
@@ -38,7 +39,6 @@
 <img width="1023" height="535" alt="데이터1" src="https://github.com/user-attachments/assets/31a6b9c2-6d44-4fa1-9ea4-ed96e04cf8af" />
 <img width="680" height="332" alt="10 모델" src="https://github.com/user-attachments/assets/b46a59c4-d958-4dbd-a835-b09c8599db09" />
 <img width="757" height="352" alt="11 모델" src="https://github.com/user-attachments/assets/b18d50b6-c84b-4d9b-8924-8d4624a8420b" />
-
 
 
 ### 증상 수어 모델 개발
