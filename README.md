@@ -1,4 +1,4 @@
-<img width="1023" height="535" alt="데이터1" src="https://github.com/user-attachments/assets/d0d38640-c577-4686-8d1d-dfb9b23331ae" /># 수어 인식 기반 농인 지원 시스템
+# 수어 인식 기반 농인 지원 시스템
 
 ## 목차
   - [프로젝트 기본 정보](#프로젝트-기본-정보)
